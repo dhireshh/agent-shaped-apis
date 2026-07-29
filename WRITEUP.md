@@ -52,7 +52,7 @@ for agentic consumers isn't a prompting problem, it's a schema and
 contract problem, and it shows up in the numbers before you ever add a
 real model.
 
-Repo with the full code and results: [link]
+Repo with the full code and results: https://github.com/dhireshh/agent-shaped-apis
 
 ---
 
