@@ -1,0 +1,26 @@
+{
+  "v1_human_shaped": {
+    "api_version": "v1_human_shaped",
+    "n_requests": 100,
+    "wrong_part_count": 8,
+    "wrong_part_rate": 0.08,
+    "silently_obsolete_count": 1,
+    "duplicate_order_count": 13,
+    "duplicate_order_rate": 0.13,
+    "escalated_to_human_count": 0,
+    "escalated_to_human_rate": 0.0,
+    "avg_tool_calls": 2.13
+  },
+  "v2_agent_shaped": {
+    "api_version": "v2_agent_shaped",
+    "n_requests": 100,
+    "wrong_part_count": 0,
+    "wrong_part_rate": 0.0,
+    "silently_obsolete_count": 0,
+    "duplicate_order_count": 0,
+    "duplicate_order_rate": 0.0,
+    "escalated_to_human_count": 20,
+    "escalated_to_human_rate": 0.2,
+    "avg_tool_calls": 1.91
+  }
+}

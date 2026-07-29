@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(/usr/bin/git --version)",
+      "Bash(command -v /opt/homebrew/bin/git)",
+      "Bash(/opt/homebrew/bin/git --version)"
+    ]
+  }
+}
